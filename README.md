@@ -1,6 +1,6 @@
 ## 🖥️ UBB-ASC – Computer Architecture (Assembly & some C)
 
-Assignments and projects from the *Computer Architecture* course at Babeș-Bolyai University (UBB), covering assembly language programming and C in a multi-module environment.
+Assignments, projects and tests from the *Computer Architecture* course at Babeș-Bolyai University (UBB), covering assembly language programming and C in a multi-module environment.
 
 Includes:
 - 🧩 Assembly language exercises and projects
